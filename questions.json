@@ -1,0 +1,238 @@
+{
+  "HTML": [
+    {
+      "title": "What does HTML stand for?",
+      "answers": [
+        "Hyperlinks Text Markup Language",
+        "Home Tool Markup Language",
+        "Hyper Text Markup Language",
+        "Handlinks and Text Markup Language"
+      ],
+      "correct-answer": "Hyper Text Markup Language"
+    },
+    {
+      "title": "Who is making the Web standards?",
+      "answers": [
+        "Google",
+        "The World Wide Web Consortium",
+        "Mozilla",
+        "WWW8C"
+      ],
+      "correct-answer": "The World Wide Web Consortium"
+    },
+    {
+      "title": "Choose the correct HTML element for the largest heading:",
+      "answers": ["<h6>", "<head>", "<heading>", "<h1>"],
+      "correct-answer": "<h1>"
+    },
+    {
+      "title": "What is the correct HTML element for inserting a line break?",
+      "answers": ["<\n>", "<break>", "<br>", "<lb>"],
+      "correct-answer": "<br>"
+    },
+    {
+      "title": "What is the correct HTML for adding a background color?",
+      "answers": [
+        "<body bg=\"yellow\">",
+        "<body style=\"background-color=yellow;\">",
+        "<body background-color=\"yellow\">",
+        "<body style=\"background-color:yellow;\">"
+      ],
+      "correct-answer": "<body style=\"background-color:yellow;\">"
+    },
+    {
+      "title": "How can you open a link in a new tab/browser window?",
+      "answers": [
+        "<a href=\"url\" target=\"new\">",
+        "<a href=\"url\" target=\"_target\">",
+        "<a href=\"url\" target=\"_blank\">",
+        "<a href=\"url\" target=\"_black\">"
+      ],
+      "correct-answer": "<a href=\"url\" target=\"_blank\">"
+    },
+    {
+      "title": "How can you make a bulleted list?",
+      "answers": ["<dl>", "<dl>", "<ol>", "<ul>"],
+      "correct-answer": "<ul>"
+    },
+    {
+      "title": "The HTML <canvas> element is used to:",
+      "answers": [
+        "create draggable elements",
+        "draw graphics",
+        "display database records",
+        "manipulate data in MySQL"
+      ],
+      "correct-answer": "draw graphics"
+    },
+    {
+      "title": "Which input type defines a slider control?",
+      "answers": ["radio", "slider", "range", "checkbox"],
+      "correct-answer": "range"
+    },
+    {
+      "title": "What is the correct HTML for making a checkbox?",
+      "answers": [
+        "<input type=\"checkbox\">",
+        "<check>",
+        "<checkbox>",
+        "<input type=\"check\">"
+      ],
+      "correct-answer": "<input type=\"checkbox\">"
+    }
+  ],
+  "JavaScript": [
+    {
+      "title": "If we declare a variable, let test = 1, then later, reassign, stating test = 2, what will happen?",
+      "answers": [
+        "JavaScript will raise a TypeError",
+        "test will equal 2",
+        "test will equal 1",
+        "test will equal undefined"
+      ],
+      "correct-answer": "test will equal 2"
+    },
+    {
+      "title": "What is JavaScript?",
+      "answers": [
+        "It is a scripting language used mostly in web programming",
+        "It is based on an object-oriented model",
+        "It is loosely typed scripting language",
+        "All"
+      ],
+      "correct-answer": "All"
+    },
+    {
+      "title": "What are the main differences between let and const?",
+      "answers": [
+        "let can be reassigned, const cannot be reassigned",
+        "let cannot be reassigned, const can be reassigned",
+        "let is functional scope, while const is block scope",
+        "let is block scope, while const is functional scope"
+      ],
+      "correct-answer": "let can be reassigned, const cannot be reassigned"
+    },
+    {
+      "title": "For strict equality comparisons, we should use:",
+      "answers": ["=", "==", "====", "!=="],
+      "correct-answer": "!=="
+    },
+    {
+      "title": "How do you find the minimum of x and y using JavaScript?",
+      "answers": ["min(x,y);", "Math.min(x,y)", "Math.min(xy)", "min(xy);"],
+      "correct-answer": "Math.min(x,y)"
+    },
+    {
+      "title": "Which event occurs when the user clicks on an HTML element?",
+      "answers": ["onclick", "onchange", "onmouseclick", "onmouseover"],
+      "correct-answer": "onclick"
+    },
+    {
+      "title": "How do you write \"Hello World\" in an alert box?",
+      "answers": [
+        "alertBox(\"Hello World\");",
+        "msg(\"Hello World\");",
+        "alert(\"Hello World\");",
+        "msgBox(\"Hello World\");"
+      ],
+      "correct-answer": "alert(\"Hello World\");"
+    },
+    {
+      "title": "Inside which HTML element do we put the JavaScript?",
+      "answers": ["<scripting>", "<js>", "<script>", "<javascript>"],
+      "correct-answer": "<script>"
+    },
+    {
+      "title": "How does a FOR loop start?",
+      "answers": [
+        "for (i = 0; i <= 5; i++)",
+        "for (i <= 5; i++)",
+        "for (i = 0; i <= 5)",
+        "for i = 1 to 5"
+      ],
+      "correct-answer": "for (i = 0; i <= 5; i++)"
+    },
+    {
+      "title": "How can you add a comment in a JavaScript?",
+      "answers": [
+        "///This is a comment",
+        "*This is a comment*",
+        "\\This is a comment\\",
+        "//This is a comment"
+      ],
+      "correct-answer": "//This is a comment"
+    }
+  ],
+  "CSS": [
+    {
+      "title": "What does CSS stand for?",
+      "answers": [
+        "Colorful Style Sheets",
+        "Computer Style Sheets",
+        "Creative Style Sheets",
+        "Cascading Style Sheets"
+      ],
+      "correct-answer": "Cascading Style Sheets"
+    },
+    {
+      "title": "Where in an HTML document is the correct place to refer to an external style sheet?",
+      "answers": [
+        "In the <head> section",
+        "In the <body> section",
+        "All",
+        "At the end of the document"
+      ],
+      "correct-answer": "In the <head> section"
+    },
+    {
+      "title": "Which HTML tag is used to define an internal style sheet?",
+      "answers": ["<script>", "<style>", "<css>", "<stylesheets>"],
+      "correct-answer": "<style>"
+    },
+    {
+      "title": "Which is the correct CSS syntax?",
+      "answers": [
+        "body:color=black;",
+        "{body;color:black;}",
+        "{body:color=black;}",
+        "body {color: black;}"
+      ],
+      "correct-answer": "body {color: black;}"
+    },
+    {
+      "title": "Which property is used to change the background color?",
+      "answers": ["color", "bgcolor", "background-color", "background-bgcolor"],
+      "correct-answer": "background-color"
+    },
+    {
+      "title": "How do you display hyperlinks without an underline?",
+      "answers": [
+        "{decoration:no-underline;}",
+        "{underline:none;}",
+        "{text-decoration:no-underline;}",
+        "{text-decoration:none;}"
+      ],
+      "correct-answer": "{text-decoration:none;}"
+    },
+    {
+      "title": "How do you select an element with id 'demo'?",
+      "answers": [".demo", "demo", "#demo", "*demo"],
+      "correct-answer": "#demo"
+    },
+    {
+      "title": "How do you select elements with class name 'test'?",
+      "answers": ["*test", "#test", ".test", "test"],
+      "correct-answer": ".test"
+    },
+    {
+      "title": "How do you select all p elements inside a div element?",
+      "answers": ["div.p", "div p", "div + p", "div, p"],
+      "correct-answer": "div p"
+    },
+    {
+      "title": "What is the default value of the position property?",
+      "answers": ["relative", "fixed", "static", "absolute"],
+      "correct-answer": "static"
+    }
+  ]
+}
